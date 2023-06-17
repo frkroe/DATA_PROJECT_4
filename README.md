@@ -41,3 +41,6 @@ El dataset de entrenamiento contiene XXXXX imágenes de rayos X etiquetadas con 
 - Muslo = 19
 - Columna torácica = 20
 - Muñeca = 21
+
+## Presentación del proyecto
+[Aquí](https://www.canva.com/design/DAFlZwgLUuU/-_qp4VhS9p3CN24XLfrXHQ/edit?utm_content=DAFlZwgLUuU&utm_campaign=designshare&utm_medium=link2&utm_source=sharebutton) puedes encontrar la presentación del proyecto.
